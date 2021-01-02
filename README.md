@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/rafaabatistas/rafaabatistas/blob/main/Gif/animation.gif">
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=page.id=rafaabatistas.rafaabatistas" alt="Visitas"></p>
-⭐ Estou cursando o primeiro semestre de tecnólogo em Análise e Desenvolvimento de Sistemas pelo ENIAC. <br>
+⭐ Cursando tecnólogo em Análise e Desenvolvimento de Sistemas pelo ENIAC. <br>
 💻 Sou formado em Técnico de Informáica. <br>
 🏠 Sou brasileiro, moro em Guarulhos-SP. 
 
