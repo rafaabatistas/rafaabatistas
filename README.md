@@ -10,3 +10,5 @@
 🐦 [Twitter](https://twitter.com/rafaa_batistas) <br>
 📷 [Instagram](https://www.instagram.com/rafaa_batistas) <br>
 🖋 [Behance](https://www.behance.net/RafaaBatista) 
+
+![Snake animation](https://github.com/rafaabatistas/rafaabatistas/blob/output/github-contribution-grid-snake.svg)
